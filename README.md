@@ -28,6 +28,7 @@ The following **additional** features are implemented:
       
 
 ## Video Walkthrough
+![Simon Be Real 2](https://github.com/user-attachments/assets/5b7a6541-a7e8-4a31-88d2-fcc112489921)
 
 
 ## Notes
